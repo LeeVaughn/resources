@@ -4,7 +4,7 @@ Hello there! This is the repository for the Self Taught Programmer's Facebook gr
 
 ## Resources
 
-Here are some resources that can be utilized on your journey to becoming a self taught developer!
+Here are some resources that can be utilized on your journey to becoming a self-taught developer!
 
 ### General
 - [The Open Web Application Security Project](https://www.owasp.org/index.php/Category:Attack) - Security
